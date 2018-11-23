@@ -19,7 +19,7 @@ class Rectangle
 
     public function PerimeterOfRectangle()
     {
-        echo "Perimeter of Rectangle is : " . (2 * ($this->length * $this->width)) . "<br/>";
+        echo "Perimeter of Rectangle is : " . (2 * ($this->length + $this->width)) . "<br/>";
     }
 }
 
