@@ -8,7 +8,7 @@ $arr = [
 unset($arr['Job']);
 var_dump($arr);
 
-// $arr2 = SplFixedArray(5);
+// $arr2 = new SplFixedArray(5);
 $arr3;
 $arr4;
 for($i = 0; $i < 10; $i++)
