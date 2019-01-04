@@ -1,4 +1,5 @@
 <?php
+// *********** Number of words appearers in an array ***********//
 
 $str = "I love Bangladesh, I love tiger";
 $arr = explode(' ', $str);
